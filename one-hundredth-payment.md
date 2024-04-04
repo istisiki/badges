@@ -1,8 +1,9 @@
-<meta property='og:title' content="Mastt Badge: I've paid my dues!"/>
-<meta property='og:image' content='/badges/assets/images/hundred_percent_paid.png'/>
-<meta property='og:description' content="Mastt Badge: I've paid my dues"/>
-<meta property='og:url' content='//istisiki.github.io/badges/one-hundredth-payment'/>
-
+---
+title: "Mastt Badge: I've paid my dues!"
+layout: "default"
+image: "/badges/assets/images/hundred_percent_paid.png"
+url: "//istisiki.github.io/badges/one-hundredth-payment"
+---
 # Hundred Hammering Heroes
 
 ![100% Paid](/badges/assets/images/hundred_percent_paid.png "100% Paid")
