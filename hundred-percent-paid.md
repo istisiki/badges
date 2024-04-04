@@ -1,7 +1,7 @@
 ---
 layout: default
 image: /badges/assets/images/hundred_percent_paid.png
-url: //istisiki.github.io/badges/one-hundredth-payment
+url: //istisiki.github.io/badges/hundred-percent-paid
 ---
 
 # Mastt Badge: You've paid all your dues.
