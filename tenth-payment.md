@@ -1,8 +1,6 @@
-<meta property='og:title' content="Mastt Badge: I've paid my dues!"/>
-<meta property='og:image' content='/badges/assets/images/hundred_percent_paid.png'/>
-<meta property='og:description' content="Mastt Badge: I've paid my dues"/>
-<meta property='og:url' content='//istisiki.github.io/badges/one-hundredth-payment'/>
-
-# Tenacious Tenfold Tools
-
-![100% Paid](/badges/assets/images/hundred_percent_paid.png "100% Paid")
+---
+title: "Mastt Badge: Tenner at the Center!"
+layout: default
+image: /badges/assets/images/tenth_payment.png
+url: https://istisiki.github.io/badges/tenth-payment
+---
